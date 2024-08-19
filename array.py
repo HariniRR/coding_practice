@@ -42,7 +42,7 @@ print("minimum element in the array:",mini)
 for e in arr:
         if e == num:
             c += 1
-print("munber of",num,"in the array:",c)
+print("number of",num,"in the array:",c)
 
 #number of odd numbers
 for i in arr:
